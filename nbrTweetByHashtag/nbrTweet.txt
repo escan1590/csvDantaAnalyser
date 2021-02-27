@@ -1,0 +1,6 @@
+There are 383 tweets with the hashtag 'eaw18',
+                    between the : Fri Mar 23 2018 00:00:00 GMT+0100 (GMT+01:00) and the Mon Mar 26 2018 00:00:00 GMT+0200 (GMT+02:00).
+
+Friday : 317
+Saturday : 46
+Sunday : 20

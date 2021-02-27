@@ -1,0 +1,34 @@
+1.
+Date_publication:Mon Mar 19 2018 13:31:52 GMT+0100 (GMT+01:00)
+Auteur:Emily Drabinski
+IDauteur:@edrabinski
+Hashtags:
+Lieu:Brooklyn
+Langue_utilisateur:en
+ID:975711453171855361
+Url:https://twitter.com/edrabinski/status/975711453171855361
+Text:RT @BergisJules: On March 22nd-24th, 2018 @documentnow and @rhizome/@webrecorder_io will host Ethics and Archiving the Web in NYC. I hope y…
+Media:
+Info_auteur:Reader, writer. Librarian, pedestrian. I show off the books at @LIUBrooklyn and edit them @LibJuicePress. President, @liu_ff. #unionstrong
+Retweet:77
+Like:0
+Utilisateur_verifie:false
+
+
+2.
+Date_publication:Mon Mar 19 2018 13:17:20 GMT+0100 (GMT+01:00)
+Auteur:WoodyGuth3
+IDauteur:@LimeriTweets
+Hashtags:
+Lieu:
+Langue_utilisateur:en
+ID:975707793033441280
+Url:https://twitter.com/LimeriTweets/status/975707793033441280
+Text:RT @BergisJules: On March 22nd-24th, 2018 @documentnow and @rhizome/@webrecorder_io will host Ethics and Archiving the Web in NYC. I hope y…
+Media:
+Info_auteur:i am a #limericist & songwriter with a conscience. i'm also an archivist
+Retweet:77
+Like:0
+Utilisateur_verifie:false
+
+
